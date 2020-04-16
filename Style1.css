@@ -1,0 +1,129 @@
+body{
+    background-image: url(sor.gif);
+    background-size: cover;
+}
+
+
+
+#Heading{
+    margin-top: 50px;
+    font-style: inherit;
+    text-align: center;
+}
+
+#form
+{
+    text-align: center;
+}
+
+#fName{
+    text-align: start;
+    font-size: 16pt;
+    font-style: initial;
+    font-weight: bolder;
+}
+
+#firstName
+{
+    width: 70%;
+    padding: 12px 12px;
+    margin:  8px 0px;
+    border: lightcoral;
+    border-bottom: 2px solid black;
+    background:wheat;
+    border-color: black;
+    border-radius: 20px;
+    border-style: double;
+}    
+
+      
+
+#lName{
+    text-align: start;
+    font-size: 16pt;
+    font-style: initial;
+    font-weight: bolder;
+}
+
+#LastName{
+    width: 70%;
+    padding: 12px 12px;
+    margin:  8px 0px;
+    border: lightgreen;
+    background:wheat;
+    border-bottom: 2px solid;
+    border-color: black;
+    border-style: double;
+    border-radius: 20px;
+}
+
+#password{
+    text-align: start;
+    font-size: 16pt;
+    font-style: initial;
+    font-weight: bolder;
+}
+
+#pass{
+    width: 70%;
+    padding: 12px 12px;
+    padding-bottom:2px;
+    margin:  8px 0px;
+    border:none;
+    border-bottom: 2px solid black;
+    background:wheat;
+    border-style: double;
+    border-radius:20px;
+}
+
+#forgot{
+    text-align: unset;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color:palevioletred;
+}
+
+#remember{
+    text-align: start;
+}
+#box-model-1{
+     margin-left: 570px;
+     padding-top: 50px;
+     padding-right: 50px;
+     padding-left: 30px;
+     width: 400px;
+     height: 260px;
+}
+
+#Sign-Up{
+
+    display: inline-block;
+    border: none;
+    height: 30px;
+    width: 70%;
+    background-color: blue;
+    text-align:center;
+    text-decoration-color: white;
+    margin-right: 120px;
+
+
+}
+#submit a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#Already{
+    margin-top: 10px;
+    padding:  16px, 32px;
+    text-align: center;
+}
+
+#tony{
+    position: absolute;
+    top: 80px;
+    left: 30px;
+}
